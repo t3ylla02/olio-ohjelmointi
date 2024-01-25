@@ -1,0 +1,7 @@
+C:/Users/Lassi/Desktop/github koodit/olio-ohjelmointi/tehtava3/build/CMakeFiles/tehtava3.dir
+C:/Users/Lassi/Desktop/github koodit/olio-ohjelmointi/tehtava3/build/CMakeFiles/edit_cache.dir
+C:/Users/Lassi/Desktop/github koodit/olio-ohjelmointi/tehtava3/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Lassi/Desktop/github koodit/olio-ohjelmointi/tehtava3/build/CMakeFiles/list_install_components.dir
+C:/Users/Lassi/Desktop/github koodit/olio-ohjelmointi/tehtava3/build/CMakeFiles/install.dir
+C:/Users/Lassi/Desktop/github koodit/olio-ohjelmointi/tehtava3/build/CMakeFiles/install/local.dir
+C:/Users/Lassi/Desktop/github koodit/olio-ohjelmointi/tehtava3/build/CMakeFiles/install/strip.dir
