@@ -5,7 +5,9 @@ project(tehtava3 LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(tehtava3 main.cpp)
+add_executable(tehtava3 main.cpp
+    chef.h chef.cpp
+    italianchef.h italianchef.cpp)
 
 include(GNUInstallDirs)
 install(TARGETS tehtava3
